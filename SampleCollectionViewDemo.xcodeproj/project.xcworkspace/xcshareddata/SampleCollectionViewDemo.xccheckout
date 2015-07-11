@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>75392774-25A4-41E2-9CA4-492CC744F88A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleCollectionViewDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>63F091AC97A210E75C9C9CEB4013EFF561307E14</key>
+		<string>https://git.oschina.net/JJet/CollectionView_Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleCollectionViewDemo/SampleCollectionViewDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>63F091AC97A210E75C9C9CEB4013EFF561307E14</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/JJet/CollectionView_Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>63F091AC97A210E75C9C9CEB4013EFF561307E14</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>63F091AC97A210E75C9C9CEB4013EFF561307E14</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CollectionView_Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
